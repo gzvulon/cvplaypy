@@ -27,3 +27,4 @@ tasks:
     desc: Update venv deps (pip and conda requirements)
     cmds:
       - pip install opencv-python
+      - pip install --upgrade imutils
